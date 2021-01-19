@@ -1,0 +1,153 @@
+#page {
+    background-color: white;
+    font-family: Verdana, Tahoma, sans-serif ;
+}
+
+.portfolio_title {
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center ;
+    color: black;
+}
+
+.border_styles {
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.about_section {
+    background-color: #4f7942; 
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 10px;
+    width: 1000px;
+    margin: 10px;
+}
+
+.education_section {
+    background-color: #88a664; 
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    width: 1000px;
+    margin-bottom: 10px;
+    margin-left: 870px ;
+}
+
+.jobs_section {
+    background-color: #4F7942; 
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    width: 1000px;
+    margin: 10px
+}
+
+.resume_section {
+    background-color: #88A664; 
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    width: 1000px;
+    margin-bottom: 10px;
+    margin-left: 870px ;
+}
+
+#resume_link {
+    text-align: right;
+    color: white;
+    background-color: black;
+    padding: 0.5%;
+    text-decoration: none;
+    margin-left: 880px;
+
+}
+
+.contact_section {
+    background-color: #4f7942; 
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    width: 1000px;
+    margin: 10px
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:grey;
+  }
+
+  .social_media_icons {
+      height: 35px;
+      width:  35px;
+      margin-right: 5px;
+  }
+
+  .school_logo {
+      background-color: black;
+      border-color: black;
+      border-style: solid;
+      height: 100px;
+      width: 100px;
+      float: right;
+      margin-bottom: 500px;
+      padding: 20px
+  }
+
+  .logo2 {
+    height: 100px;
+      width: 100px;
+      float: right;
+      margin-bottom: 20px;
+      padding: 5px
+}
+
+.logo3 {
+      height: 100px;
+      width: 100px;
+      float: right;
+      margin-left: 250px;
+      border-radius: 1%;
+      border-style: solid;
+}
+
+  .image-link {
+      text-decoration: none;
+  }
+
+  #bottom_link {
+    color: white;
+    background-color: black;
+    padding: 0.5%;
+    text-decoration: none;
+    float: center;
+    margin-left: 900px;
+  }
